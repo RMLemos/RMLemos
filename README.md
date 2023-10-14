@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi, I'm Rita from Portugal.
+- 📫 How to reach me: anarlemos@gmail.com
+<div>
+  <a href="https://www.linkedin.com/in/anaritalemos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank></a>
+</div>
 
-<!--
-**RMLemos/RMLemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                                      
+- 🌱 I’m currently learning <br>
+      <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,py,django,php" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+  ##
+<div align="center">
+<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=RMLemos&show_icons=true&include_all_commits=true&theme=aura"/>
+<img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=RMLemos&layout=compact&theme=aura"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
