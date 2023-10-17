@@ -8,7 +8,7 @@ Hi, I'm Rita from Portugal.
 - 🌱 I’m currently learning <br>
       <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,django,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,django,php" /> 
   </a>
 </p>
 
